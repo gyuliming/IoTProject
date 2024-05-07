@@ -8,8 +8,8 @@
 |팀원|소속|깃허브|
 |:---:|:---:|:---:|
 |송규림|한경대 컴퓨터공학과 SC|[@gyuliming](https://github.com/gyuliming)|
-|유지원|한경대 컴퓨터공학과 SC|[@greenblueredgreen](https://github.com/greenblueredgreen)|
-|정아현|한경대 컴퓨터공학과 SC|[@syy669](https://github.com/syy669)|
+|유지원|한경대 컴퓨터공학과 SC|[@syy669](https://github.com/syy669)|
+|정아현|한경대 컴퓨터공학과 SC|[@greenblueredgreen](https://github.com/greenblueredgreen)|
 |조정행|한경대 컴퓨터공학과 SC|[@JOJeongHaeng](https://github.com/JOJeongHaeng)|
 
 ## 기술 스택 및 구현
