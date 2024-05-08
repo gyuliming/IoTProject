@@ -12,9 +12,9 @@
 |정아현|한경대 컴퓨터공학과 SC|[@greenblueredgreen](https://github.com/greenblueredgreen)|
 |조정행|한경대 컴퓨터공학과 SC|[@JOJeongHaeng](https://github.com/JOJeongHaeng)|
 
-## 기술 스택 및 구현
-- Linux
+## 기술 스택 및 환경
 - C
+- Linux
 
 ## 플로우 차트
 .
