@@ -17,7 +17,8 @@
 - Linux
 
 ## 플로우 차트
-.
+![flowchart](https://github.com/gyuliming/IoTProject/assets/79573298/2f305302-5e74-40b9-b482-4541b2b3927c)
+
 
 ## 개발 과정
 .
