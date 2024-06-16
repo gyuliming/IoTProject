@@ -36,7 +36,6 @@
 
 
 ## 플로우 차트
-<p align="left"><img src="/img/flowchart.png"></img></p>
 
 
 ## 게임 플레이 영상
