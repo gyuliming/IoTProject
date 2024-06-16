@@ -38,13 +38,15 @@
 ## 플로우 차트
 <p align="left"><img src="/img/Flowchart.png"></img></p>
 
-## 게임 화면
+
+## 게임 플레이 화면
 <p><img src="/img/게임 시작.jpg" width="200" height="200"></img>
 <img src="/img/모드 선택.jpg" width="200" height="200"></img>
 <img src="/img/난이도 선택.jpg" width="200" height="200"></img>
 <img src="/img/랜덤 패턴 생성.jpg" width="200" height="200"></img></p>
 <p><img src="/img/점수 획득.jpg" width="200" height="200"></img>
 <img src="/img/랜덤 패턴 생성2.jpg" width="200" height="200"></img>
+<img src="/img/100점 승리 문구.jpg" width="200" height="200"></img>
 <img src="/img/실패 문구.jpg" width="200" height="200"></img></p>
 
 ## 게임 플레이 영상
