@@ -39,4 +39,4 @@
 <p align="left"><img src="/img/Flowchart.png"></img></p>
 
 ## 게임 플레이 영상
-
+[9팀 IoT 프로젝트 메모리 게임 플레이 영상](https://youtu.be/68UX9BZ8k7o)
