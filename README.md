@@ -45,7 +45,6 @@
 <img src="/img/랜덤 패턴 생성.jpg" width="200" height="200"></img></p>
 <p><img src="/img/점수 획득.jpg" width="200" height="200"></img>
 <img src="/img/랜덤 패턴 생성2.jpg" width="200" height="200"></img>
-<img src="/img/승리 문구.jpg" width="200" height="200"></img>
 <img src="/img/실패 문구.jpg" width="200" height="200"></img></p>
 
 ## 게임 플레이 영상
