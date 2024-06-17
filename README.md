@@ -1,5 +1,5 @@
 # HKNU IoT Team Project
-> Hybus-Smart4412 타겟시스템을 이용한 메모리게임
+> 한경국립대학교 Hybus-Smart4412 타겟시스템을 이용한 메모리게임
 
 
 ## 개발 기간
@@ -19,6 +19,7 @@
 - C
 - Linux
 - Hybus-Smart4412
+- Tera Term
 
 
 ## 게임 규칙
@@ -40,14 +41,14 @@
 
 
 ## 게임 플레이 화면
-<p><img src="/img/게임 시작.jpg" width="200" height="200"></img>
-<img src="/img/모드 선택.jpg" width="200" height="200"></img>
-<img src="/img/난이도 선택.jpg" width="200" height="200"></img>
-<img src="/img/랜덤 패턴 생성.jpg" width="200" height="200"></img></p>
-<p><img src="/img/점수 획득.jpg" width="200" height="200"></img>
-<img src="/img/랜덤 패턴 생성2.jpg" width="200" height="200"></img>
-<img src="/img/100점 승리 문구.jpg" width="200" height="200"></img>
-<img src="/img/실패 문구.jpg" width="200" height="200"></img></p>
+|게임 시작|모드 선택|난이도 선택|랜덤 패턴1|
+|--------------|--------------|--------------|--------------|
+|<img src="/img/게임 시작.jpg" width="200" height="200">|<img src="/img/모드 선택.jpg" width="200" height="200">|<img src="/img/난이도 선택.jpg" width="200" height="200">|<img src="/img/랜덤 패턴 생성.jpg" width="200" height="200">|
+
+|점수 획득|랜덤 패턴2|승리 문구|실패 문구|
+|--------------|--------------|--------------|--------------|
+|<img src="/img/점수 획득.jpg" width="200" height="200">|<img src="/img/랜덤 패턴 생성2.jpg" width="200" height="200">|<img src="/img/100점 승리 문구.jpg" width="200" height="200">|<img src="/img/실패 문구.jpg" width="200" height="200">|
+
 
 ## 게임 플레이 영상
-[9팀 IoT 프로젝트 메모리 게임 플레이 영상](https://youtu.be/68UX9BZ8k7o)
+[9팀 IoT 프로젝트 메모리게임](https://youtu.be/68UX9BZ8k7o)
