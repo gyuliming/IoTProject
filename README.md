@@ -1,7 +1,6 @@
 # HKNU IoT Team Project
 > 한경국립대학교 Hybus-Smart4412 타겟시스템을 이용한 메모리게임
 
-
 ## 개발 기간
 > 2024.05 ~ 2024.06
 
@@ -21,6 +20,7 @@
 - Hybus-Smart4412
 - Tera Term
 
+---
 
 ## 게임 규칙
 플레이어가 무작위로 생성되는 패턴을 기억한 후, 정확히 재현하는 게임이다.
@@ -39,6 +39,7 @@
 ## 플로우 차트
 <p align="left"><img src="/img/Flowchart.png"></img></p>
 
+---
 
 ## 게임 플레이 화면
 |게임 시작|모드 선택|난이도 선택|랜덤 패턴1|
@@ -53,6 +54,7 @@
 ## 게임 플레이 영상
 - [9팀 IoT 프로젝트 메모리게임](https://youtu.be/68UX9BZ8k7o)
 
+---
 
 ## 참고 자료
 - [인디언 포커 게임(Indian Poker GAME)](https://github.com/hamsangjin/H-Smart4412_IoTProgramming)
