@@ -51,4 +51,12 @@
 
 
 ## 게임 플레이 영상
-[9팀 IoT 프로젝트 메모리게임](https://youtu.be/68UX9BZ8k7o)
+- [9팀 IoT 프로젝트 메모리게임](https://youtu.be/68UX9BZ8k7o)
+
+
+## 참고 자료
+- [인디언 포커 게임(Indian Poker GAME)](https://github.com/hamsangjin/H-Smart4412_IoTProgramming)
+
+- [C언어 배열](https://dream-and-develop.tistory.com/16)
+
+- [ChatGPT](https://chatgpt.com/)
